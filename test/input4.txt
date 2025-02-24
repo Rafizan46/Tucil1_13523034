@@ -1,0 +1,25 @@
+6 6 10
+CUSTOM
+.XXXX.
+XXXXXX
+X.XX.X
+XXXXXX
+.XXXX.
+.XXXX.
+AAA
+AA
+BB
+B
+CCC
+D D
+DDD
+EE
+E
+F
+F
+FF
+F
+G
+H
+I
+J
